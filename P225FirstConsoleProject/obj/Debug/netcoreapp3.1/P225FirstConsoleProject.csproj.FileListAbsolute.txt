@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P225\Task\P225FirstConsoleProject\bin\Debug\netcoreapp3.1\P225FirstConsoleProject.exe
+C:\Users\memme\Desktop\P225\Task\P225FirstConsoleProject\bin\Debug\netcoreapp3.1\P225FirstConsoleProject.deps.json
+C:\Users\memme\Desktop\P225\Task\P225FirstConsoleProject\bin\Debug\netcoreapp3.1\P225FirstConsoleProject.runtimeconfig.json
+C:\Users\memme\Desktop\P225\Task\P225FirstConsoleProject\bin\Debug\netcoreapp3.1\P225FirstConsoleProject.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P225\Task\P225FirstConsoleProject\bin\Debug\netcoreapp3.1\P225FirstConsoleProject.dll
+C:\Users\memme\Desktop\P225\Task\P225FirstConsoleProject\bin\Debug\netcoreapp3.1\P225FirstConsoleProject.pdb
+C:\Users\memme\Desktop\P225\Task\P225FirstConsoleProject\obj\Debug\netcoreapp3.1\P225FirstConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\P225FirstConsoleProject\obj\Debug\netcoreapp3.1\P225FirstConsoleProject.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225FirstConsoleProject\obj\Debug\netcoreapp3.1\P225FirstConsoleProject.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\P225FirstConsoleProject\obj\Debug\netcoreapp3.1\P225FirstConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225FirstConsoleProject\obj\Debug\netcoreapp3.1\P225FirstConsoleProject.dll
+C:\Users\memme\Desktop\P225\Task\P225FirstConsoleProject\obj\Debug\netcoreapp3.1\P225FirstConsoleProject.pdb
+C:\Users\memme\Desktop\P225\Task\P225FirstConsoleProject\obj\Debug\netcoreapp3.1\P225FirstConsoleProject.genruntimeconfig.cache
+C:\Users\memme\Desktop\P225\Task\P225FirstConsoleProject\obj\Debug\netcoreapp3.1\P225FirstConsoleProject.csproj.AssemblyReference.cache
